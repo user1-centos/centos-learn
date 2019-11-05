@@ -1,4 +1,8 @@
 123456789
 github-test
+<<<<<<< HEAD
 master
 fz1
+=======
+fz2
+>>>>>>> fz2
